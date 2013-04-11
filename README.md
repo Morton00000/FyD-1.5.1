@@ -16,7 +16,7 @@ If you do use the pack please let people know and link back to the thread.
 ***
 ###Folder Info
 
-This is only the 1.5.1 mod textures folder for the mod folders please see [1.4.7]() or [Templates]().
+This is only the 1.5.1 mod textures folder for the mod folders please see [1.4.7](https://github.com/Morton00000/FyD-1.4.7) or [Templates](https://github.com/Morton00000/FyD-Template_Files).
 
 Currently the mods are being textured seperatly and then placed together for testing/release.
 ***
