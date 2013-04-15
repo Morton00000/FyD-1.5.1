@@ -31,3 +31,5 @@ Steves_Carts -		- 2.0.0.a96
 Thermal_Expansion -	- 2.3.0.b5
 Twilight_Forest -		- 1.17.1
 XACT -			- v0.3.0
+Natura -			- 2.0.10
+Tinkers Construct -		- 1.2.29.3
