@@ -39,6 +39,7 @@ Mystcraft -			- 0.10.2.00
 Natura -			- 2.0.10
 NEI -			- 1.5.2.9
 NEI_Plugins -		- 1.0.4.6
+nx_Minetilities -		- 0.1.4
 Open_CC_Sensors -	- 0.1.5
 Power_Converters -		- 2.3.0B1-38
 Steves_Carts -		- 2.0.0.a96
