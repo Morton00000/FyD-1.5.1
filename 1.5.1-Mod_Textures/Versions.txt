@@ -13,13 +13,16 @@ Buildcraft-Logistics_Pipes -	- 0.7.2.dev.397
 CB-Chicken_Chunks	- 1.3.2.3
 CB-Ender_Storage -	- 1.4.2.4
 Chisel -			- 1.4.1
+CoFH-Core -		- 1.5.1.0
+CoFH-Omni_Tools -		- 3.1.0.0
+CoFH-Thermal_Expansion -	- 2.3.1.0
 Computer_Craft -		- 1.52
 EE3 -			- pre1g
 Enchanting_Plus -		- 1.14.3
 Extra_Bees -		- 1.6 pre2
 Extrabiomes_XL -		- 3.12.2
 Factorization -		- 0.7.27
-Forestry -			-  A-2.1.2.14
+Forestry -			-  A-2.1.2.25
 IC2 -			- 1.115.282-lf
 IC2-Advanced_Machines -	- 1.5.1
 IC2-Advanced_Solar_Panel -	- 3_3_5
@@ -31,24 +34,34 @@ IC2-Nuclear_Control -	- 1.5.1
 iChun-Gravity_Gun -		- 1.5.0v2
 iChun-Hats -		- 1.1.0
 iChun-Portal_Gun -		- 1.5.1
-Immibis_Core -		- 54.0.0
+Immibis-Core -		- 54.0.0
+Immibis-Microblocks -	- 54.0.3
 Iron_Chest -		- 5.2.2.350
 Light_Level_Overlay -	- v0.10
 MineFactory_Reloaded -	- 2.4.2-494
 Modular_Powersuits -	- 0.5.0-326
-MPS_Addons -		- 
+MPS_Addons -		- 0.2.2-59
 Mystcraft -			- 0.10.2.00
 Natura -			- 2.0.10
 NEI -			- 1.5.2.9
-NEI_Plugins -		- 1.0.4.6
+NEI-Plugins -		- 1.0.4.6
 nx_Minetilities -		- 0.1.4
 Open_CC_Sensors -	- 0.1.5
 Power_Converters -		- 2.3.0B1-38
 Steves_Carts_2 -		- 2.0.0.a96
 Thaumcraft_3 -		- 3.0.4a
 Thaumic_Bees -		- 1.4.5
-Thermal_Expansion -	- 2.3.0.b5
 Tinkers Construct -		- 1.2.29.3
 Twilight_Forest -		- 1.17.1
+UE-Assembly_Line -		- v0.3.5.101
+UE-Atomic_Science -	- v0.5.1.13
+UE-Basic_Components -	- v1.3.2.73
+UE-Complex_Machines -	- v0.3.1.25
+UE-Electric_Expansion -	- v2.1.0.28
+UE-Fluid_Mechanics -	- v0.4.3.71
+UE-ICBM -		- v1.1.2.45
+UE-Mekanism -		- v5.5.4.30
+UE-MFFS -		- v3.0.0.74
+UE-MineChem -		- v3.x.57
 Underground_Biomes -	- 0.3.4a
 XACT -			- v0.3.0

@@ -1,0 +1,77 @@
+54.0.3:
+* Fixed breaking a microblock not causing a block update (allowing things like floating torches).
+* Fixed the incompatibility with Buildcraft.
+
+54.0.2:
+* Maybe fixed the crash with Buildcraft installed.
+
+54.0.1:
+* Fixed upside-down textures on sides.
+* Fixed names.
+* Textures on all sides are displayed the same way as in normal blocks - none are flipped horizontally.
+* Fixed some lighting differences between microblocks and normal blocks. Still no smooth lighting.
+
+54.0.0:
+* Updated to Minecraft 1.5.1.
+
+53.0.0:
+* Fixed wrong name in mod list.
+* Updated to Minecraft 1.5.
+* New bug: when breaking a microblock, particles have "missing texture" texture.
+
+52.1.3:
+* Added AE colourless cable to default tile entity list. Class is appeng.me.tile.TileColorlessCable
+
+52.1.2:
+* Refactored microblock API again - required update.
+* Fixed a bug with config generation the first time you open Minecraft.
+* Fixed mod page crash with NEI?
+
+52.1.1:
+* Added config option to hide microblocks from NEI, because I'm told ChickenBones still hasn't fixed the lag.
+* Might fix not being able to mark Forestry planks as cuttable.
+
+52.1.0:
+* Fixed bottom and sides of microblocks not being darker than the top.
+* Fixed transformed blocks being black in inventories.
+* Config format changed and config file renamed to immibis-microblocks.cfg.
+  Existing configs will be automatically converted.
+* Changed the way autoDetectCuttableBlocks works.
+* Added manual cuttableBlock list in config.
+* Added support for mods that mix coverable and non-coverable tile entities in the same block ID (eg Applied Energistics)
+* Added the following Applied Energistics blocks to the default list: ME Cable, ME Export Bus, ME Import Bus, ME Level Emitter,
+  ME Storage Bus, ME Dark Cable.
+  With the Export Bus, Import Bus and Storage Bus you can place covers on the same side the bus is on, causing flickering.
+  So don't do that if it annoys you.
+* You can no longer craft a microblock by itself to get the same one back.
+
+52.0.9:
+* Fixed flickering on overlapping microblocks with the same texture (yay!)
+  They still flicker if the overlapping microblocks have different textures.
+* Fixed some stacking issues.
+
+52.0.8:
+* Included microblock API in this jar file, as well as immibis core (as I can't remove it from there until 1.5).
+  Maybe this fixes the IC2 load order problem.
+
+52.0.7:
+* Re-added IC2 cables to the default list of blocks to affect.
+
+52.0.6:
+* Probably fixed NPE when loading a world or connecting to a server.
+* New handsaw sprite from Kaza, slightly modified (just the blade). Thanks Kaza!
+
+52.0.5:
+* Fixed dupe bug with Buildcraft pipes.
+* Fixed selection boxes not rendering.
+* Fixed placement ghosts not rendering.
+
+52.0.3:
+* Middle-clicking a microblock placed on a cable/conduit/liquiduct/pipe in creative will select the microblock, instead of the thing it's on.
+* You can place torches, etc, attached to microblocks on cables/conduits/liquiducts/pipes.
+
+52.0.0:
+* Separated microblocks into a separate coremod like they should have been from the start.
+  You don't need to update configs. You do need to download Immibis's Microblocks if you
+  had microblocks enabled, or they will disappear from the world.
+  The API is still in Immibis Core.
