@@ -6,6 +6,7 @@ Applied_Energistics -	- rv10-dev17
 Ars_Magica -		- 5.50.007
 BC3-			- 3.4.2-190
 BC3-Additional_Objects -	- 1.0.2.112
+BC3-Additional_Pipes -	- 2.1.4u52-BC3.5.0
 BC3-Logistics_Pipes -	- 0.7.2.dev.397
 BC3-nx_Minetilities -	- 0.1.4
 Better_Storage -		- 0.5.0.3
@@ -50,6 +51,7 @@ NEI -			- 1.5.2.9
 NEI-Plugins -		- 1.0.4.6
 Open_CC_Sensors -	- 0.1.5
 Power_Converters -		- 2.3.0B1-38
+Railcraft -			- 6.17.0.31
 Steves_Carts_2 -		- 2.0.0.a101
 Thaumcraft_3 -		- 3.0.4a
 Tinkers Construct -		- 1.2.29.3
