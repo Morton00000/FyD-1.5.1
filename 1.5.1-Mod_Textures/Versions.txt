@@ -26,13 +26,13 @@ Factorization -		- 0.7.27
 Forestry -			-  A-2.1.2.25
 Forestry-Extra_Bees -	- 1.6 pre2
 Forestry-Thaumic_Bees -	- 1.4.5
-IC2 -			- 1.115.282-lf
+IC2 -			- 1.115.304-lf
 IC2-Advanced_Machines -	- 4.9
 IC2-Advanced_Solar_Panel -	- 3.3.5
 IC2-Charge_Pads -		- 2.6.0.74
 IC2-Compact_Solars -	- 4.1.4.35
 IC2-Gravi_Suite -		- 1.9
-IC2-GregTech -		- 3.01a
+IC2-GregTech -		- 3.03a
 IC2-MFFS -		- 2.3.0.0.3
 IC2-Nuclear_Control -	- 1.5.1
 iChun-Gravity_Gun -		- 1.5.0v2
@@ -51,10 +51,11 @@ NEI -			- 1.5.2.9
 NEI-Plugins -		- 1.0.4.6
 Open_CC_Sensors -	- 0.1.5
 Power_Converters -		- 2.3.0B1-38
+Project_Bench -		- v1.7.4
 Railcraft -			- 6.17.0.31
 Steves_Carts_2 -		- 2.0.0.a101
 Thaumcraft_3 -		- 3.0.4a
-Tinkers Construct -		- 1.2.29.3
+Tinkers Construct -		- 1.3.1
 Twilight_Forest -		- 1.17.1
 UE-Assembly_Line -		- v0.3.5.101
 UE-Atomic_Science -	- v0.5.1.13
