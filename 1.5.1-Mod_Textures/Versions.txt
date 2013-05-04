@@ -1,12 +1,10 @@
-The mod versions were taken from the downloaded file.
-
 Versions:
 
 Applied_Energistics -	- rv10-dev17
 Ars_Magica -		- 5.50.007
 BC3-			- 3.4.2-190
 BC3-Additional_Objects -	- 1.0.2.112
-BC3-Additional_Pipes -	- 2.1.4u52-BC3.5.0
+BC3-Additional_Pipes -	- 2.1.4u52
 BC3-Logistics_Pipes -	- 0.7.2.dev.397
 BC3-nx_Minetilities -	- 0.1.4
 Better_Storage -		- 0.5.0.3
@@ -25,7 +23,7 @@ Extrabiomes_XL -		- 3.12.2
 Factorization -		- 0.7.27
 Forestry -			-  A-2.1.2.25
 Forestry-Extra_Bees -	- 1.6 pre2
-Forestry-Thaumic_Bees -	- 1.4.5
+Forestry-Thaumic_Bees -	- 1.4.6
 IC2 -			- 1.115.304-lf
 IC2-Advanced_Machines -	- 4.9
 IC2-Advanced_Solar_Panel -	- 3.3.5
