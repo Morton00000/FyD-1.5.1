@@ -9,7 +9,7 @@ BC3-Logistics_Pipes -	- 0.7.2.dev.397
 BC3-nx_Minetilities -	- 0.1.4
 Better_Storage -		- 0.5.0.3
 Biblio_Craft -		- v1.1.6
-Biomes_O_Plenty -		- v0.5.1
+Biomes_O_Plenty -		- 0.5.2
 CB-Chicken_Chunks	- 1.3.2.3
 CB-Ender_Storage -	- 1.4.2.4
 Chisel -			- 1.4.1
@@ -53,8 +53,8 @@ Project_Bench -		- v1.7.4
 Railcraft -			- 6.17.0.31
 Steves_Carts_2 -		- 2.0.0.a101
 Thaumcraft_3 -		- 3.0.4a
-Tinkers Construct -		- 1.3.1
-Twilight_Forest -		- 1.17.1
+Tinkers Construct -		- 1.3.2.16
+Twilight_Forest -		- 1.17.2
 UE-Assembly_Line -		- v0.3.5.101
 UE-Atomic_Science -	- v0.5.1.13
 UE-Basic_Components -	- v1.3.2.73
