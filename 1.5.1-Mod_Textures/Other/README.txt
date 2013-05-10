@@ -1,0 +1,1 @@
+The mods in this folder are only default textures and MAY not be added to the pack.
