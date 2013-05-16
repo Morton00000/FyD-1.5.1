@@ -8,169 +8,169 @@
 	</target>
 	
 	<target name="moveToFinish">
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Vanilla_Minecraft_Textures-FTB" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\OptiFine" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Applied_Energistics" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Ars_Magica" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Additional_Objects" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Additional_Pipes" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Logistics_Pipes" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-nx_Minetilities" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Biblio_Craft" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Biomes_O_Plenty" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\CB-Chicken_Chunks" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\CB-Ender_Storage" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Core" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Omni_Tools" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Thermal_Expansion" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Computer_Craft" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\EE3" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Enchanting_Plus" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Extrabiomes_XL" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Factorization" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Forestry" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Forestry-Extra_Bees" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Forestry-Thaumic_Bees" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Advanced_Machines" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Advanced_Solar_Panel" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Charge_Pads" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
-			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Compact_Solars />
+		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Compact_Solars" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Gravi_Suite" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-GregTech" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-MFFS" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Nuclear_Control" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Gravity_Gun" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Hats" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Portal_Gun" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Core" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Microblocks" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Iron_Chest" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\MineFactory_Reloaded" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Modular_Powersuits" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\MPS_Addons" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Mystcraft" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Natura" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\NEI" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\NEI-Plugins" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Open_CC_Sensors" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Power_Converters" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Project_Bench" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Railcraft" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Steves_Carts_2" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Thaumcraft_3" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Tinkers_Construct" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Twilight_Forest" />
 		</copy>
-		<copy todir="${build.dir.development}\Finished">
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\XACT" />
 		</copy>
 	</target>
