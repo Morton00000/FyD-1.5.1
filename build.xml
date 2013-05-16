@@ -176,7 +176,7 @@
 	</target>
 	
 	<target name="zipFinish">
-		<zip destfile="${build.dir.release}\${release.mod.name}-${release.mod.majorVersion}.${release.mod.minorVersion}.${release.mod.revision}.zip"
+		<zip destfile="${build.dir.release}\${build.release.mod.name}-${build.release.mod.majorVersion}.${build.release.mod.minorVersion}.${build.release.mod.revision}.zip"
        			basedir="${build.dir.development}\FyD-Test"
   		/>
 	</target>
