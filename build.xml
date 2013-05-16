@@ -2,12 +2,24 @@
 <project name="${build.dir.modFolder}" default="build">
 	
 	<property file="build.properties" prefix="build"/>
-									
-	<target name="release">
-		 <copy todir="${build.dir.development}\Finished">
+	
+	<target name="clean">
+		<delete dir="${build.dir.development}\Finished" />
+	</target>
+	
+	<target name="moveToFinish">
+		<copy todir="${build.dir.development}\Finished">
 			<fileset dir="${build.dir.development}\Vanilla_Minecraft_Textures-FTB" />
+		</copy>
+		
+		<copy todir="${build.dir.development}\Finished">
 			<fileset dir="${build.dir.development}\OptiFine" />
+		</copy>
+		
+		<copy todir="${build.dir.development}\Finished">
 			<fileset dir="${build.dir.development}\Mod_Textures\Applied_Energistics" />
+		</copy>
+		
 			<fileset dir="${build.dir.development}\Mod_Textures\Ars_Magica" />
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3" />
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Additional_Objects" />
@@ -60,6 +72,22 @@
 			<fileset dir="${build.dir.development}\Mod_Textures\Tinkers_Construct" />
 			<fileset dir="${build.dir.development}\Mod_Textures\Twilight_Forest" />
 			<fileset dir="${build.dir.development}\Mod_Textures\XACT" />
-		</copy>
+	</target>
+	
+	<target name="zipFinish">
+		<zip destfile="${build.dir.release}\${release.mod.name}-${release.mod.majorVersion}.${release.mod.minorVersion}.${release.mod.revision}.zip"
+       			basedir="${build.dir.development}\Finished"
+  		/>
+	</target>
+	
+	<target name="test">
+		<antcall target="clean" />
+		<antcall target="moveToFinish" />
+	</target>
+	
+	<target name="release">
+		<antcall target="clean" />
+		<antcall target="moveToFinish" />
+		<antcall target="zipFinish" />
 	</target>
 </project>
