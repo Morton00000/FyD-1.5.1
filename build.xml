@@ -1,0 +1,65 @@
+<?xml version="1.0" ?> 
+<project name="${build.dir.modFolder}" default="build">
+	
+	<property file="build.properties" prefix="build"/>
+									
+	<target name="release">
+		 <copy todir="${build.dir.development}\Finished">
+			<fileset dir="${build.dir.development}\Vanilla_Minecraft_Textures-FTB" />
+			<fileset dir="${build.dir.development}\OptiFine" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Applied_Energistics" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Ars_Magica" />
+			<fileset dir="${build.dir.development}\Mod_Textures\BC3" />
+			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Additional_Objects" />
+			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Additional_Pipes" />
+			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Logistics_Pipes" />
+			<fileset dir="${build.dir.development}\Mod_Textures\BC3-nx_Minetilities" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Biblio_Craft" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Biomes_O_Plenty" />
+			<fileset dir="${build.dir.development}\Mod_Textures\CB-Chicken_Chunks" />
+			<fileset dir="${build.dir.development}\Mod_Textures\CB-Ender_Storage" />
+			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Core" />
+			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Omni_Tools" />
+			<fileset dir="${build.dir.development}\Mod_Textures\CoFH-Thermal_Expansion" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Computer_Craft" />
+			<fileset dir="${build.dir.development}\Mod_Textures\EE3" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Enchanting_Plus" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Extrabiomes_XL" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Factorization" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Forestry" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Forestry-Extra_Bees" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Forestry-Thaumic_Bees" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Advanced_Machines" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Advanced_Solar_Panel" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Charge_Pads" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Compact_Solars />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Gravi_Suite" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-GregTech" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-MFFS" />
+			<fileset dir="${build.dir.development}\Mod_Textures\IC2-Nuclear_Control" />
+			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Gravity_Gun" />
+			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Hats" />
+			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Portal_Gun" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Core" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Microblocks" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Iron_Chest" />
+			<fileset dir="${build.dir.development}\Mod_Textures\MineFactory_Reloaded" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Modular_Powersuits" />
+			<fileset dir="${build.dir.development}\Mod_Textures\MPS_Addons" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Mystcraft" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Natura" />
+			<fileset dir="${build.dir.development}\Mod_Textures\NEI" />
+			<fileset dir="${build.dir.development}\Mod_Textures\NEI-Plugins" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Open_CC_Sensors" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Power_Converters" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Project_Bench" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Railcraft" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Steves_Carts_2" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Thaumcraft_3" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Tinkers_Construct" />
+			<fileset dir="${build.dir.development}\Mod_Textures\Twilight_Forest" />
+			<fileset dir="${build.dir.development}\Mod_Textures\XACT" />
+		</copy>
+	</target>
+</project>
