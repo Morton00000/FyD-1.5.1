@@ -21,7 +21,7 @@ EE3 -			- pre1g
 Enchanting_Plus -		- 1.14.3
 Extrabiomes_XL -		- 3.12.2
 Factorization -		- 0.7.27
-Forestry -			-  A-2.1.2.25
+Forestry -			- A-2.1.2.25
 Forestry-Extra_Bees -	- 1.6 pre2
 Forestry-Thaumic_Bees -	- 1.4.6
 IC2 -			- 1.115.304-lf
