@@ -13,6 +13,8 @@ Anyone can redistribute the texture pack modified or not as long as Greevir and 
 If anyone needs help starting on textures feel free to use the pack as a base.
 
 If you do use the pack please let people know and link back to the thread.
+
+Anyone is free to use the build script (modifed or not) to build their texture packs if they want to.
 ***
 ###Folder Info
 
