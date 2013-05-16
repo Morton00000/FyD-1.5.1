@@ -35,3 +35,5 @@ This 'number' only goes up the more mods that are added.
 If you did actualy read all of this make a post about it and leave some feed-back on the forum post.
 
 It is okay to correct my grammer/spelling just don't get overbearing.
+
+Also a special thanks to Captain Shadows for his help with the build script.
