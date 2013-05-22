@@ -3,4 +3,8 @@
 *.ogg
 *.mtl
 *.class
+*.cmd
+*.xml
+build.properties
 FyD-Test
+Releases

@@ -6,7 +6,9 @@
 ***
 ###Distribution
 
-Anyone can redistribute the texture pack modified or not as long as Greevir and I are given credit.
+Anyone can redistribute the texture pack modified or not as long as I am given credit.
+
+This said I have had some help from a few community members such as Greevir and Joe9117.
 ***
 ###Usage
 
