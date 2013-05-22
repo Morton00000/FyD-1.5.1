@@ -5,6 +5,6 @@
 *.class
 *.cmd
 *.xml
-build.properties
+*.properties
 FyD-Test
 Releases
