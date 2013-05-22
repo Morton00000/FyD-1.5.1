@@ -33,9 +33,6 @@
 			<fileset dir="${build.dir.development}\Mod_Textures\BC3-Logistics_Pipes" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\BC3-nx_Minetilities" />
-		</copy>
-		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Biblio_Craft" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
@@ -61,9 +58,6 @@
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\EE3" />
-		</copy>
-		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\Enchanting_Plus" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Extrabiomes_XL" />
@@ -169,9 +163,6 @@
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Twilight_Forest" />
-		</copy>
-		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\XACT" />
 		</copy>
 	</target>
 	
