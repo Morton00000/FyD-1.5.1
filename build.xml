@@ -63,6 +63,9 @@
 			<fileset dir="${build.dir.development}\Mod_Textures\Extrabiomes_XL" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\ExtraUtils" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Factorization" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
@@ -73,6 +76,9 @@
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Forestry-Thaumic_Bees" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\Galacticraft" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\IC2" />
@@ -111,22 +117,28 @@
 			<fileset dir="${build.dir.development}\Mod_Textures\iChun-Portal_Gun" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-ARS" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Core" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-Microblocks" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\Immibis-TubeStuff" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Iron_Chest" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\MineFactory_Reloaded" />
+			<fileset dir="${build.dir.development}\Mod_Textures\MineChem" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\Modular_Powersuits" />
+			<fileset dir="${build.dir.development}\Mod_Textures\MPS" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\MPS_Addons" />
+			<fileset dir="${build.dir.development}\Mod_Textures\MPS-Addons" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Mystcraft" />
@@ -138,16 +150,22 @@
 			<fileset dir="${build.dir.development}\Mod_Textures\NEI" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\NEI-Bees" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\NEI-Plugins" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Open_CC_Sensors" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\Power_Converters" />
+			<fileset dir="${build.dir.development}\Mod_Textures\PC-MineFactory_Reloaded" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
-			<fileset dir="${build.dir.development}\Mod_Textures\Project_Bench" />
+			<fileset dir="${build.dir.development}\Mod_Textures\PC-NetherOres" />
+		</copy>
+		<copy todir="${build.dir.development}\FyD-Test">
+			<fileset dir="${build.dir.development}\Mod_Textures\PC-Power_Converters" />
 		</copy>
 		<copy todir="${build.dir.development}\FyD-Test">
 			<fileset dir="${build.dir.development}\Mod_Textures\Railcraft" />

@@ -1,0 +1,32 @@
+16
+*6 core0 0,0
+*6 core1 8,0
+transparent 15,0
+*2 area-front 0,1
+area-frontH 2,1
+*2 area-side 3,1
+area-sideH 5,1
+*2 line-front 0,2
+line-frontH 2,2
+*2 line-side 3,2
+line-sideH 5,2
+*2 plate-front 0,3
+plate-frontH 2,3
+*2 plate-side 3,3
+plate-sideH 5,3
+*2 tube-front 0,4
+tube-frontH 2,4
+*2 tube-side 3,4
+tube-sideH 5,4
+*2 ext-front 0,5
+ext-frontH 2,5
+*2 ext-side 3,5
+ext-sideH 5,5
+*6 injector0 0,6
+*6 injector1 8,6
+*6 reactor0 0,7
+*6 reactor1 8,7
+*6 cooler0 0,8
+*6 cooler1 8,8
+*6 monitor0 0,9
+*6 monitor1 8,9

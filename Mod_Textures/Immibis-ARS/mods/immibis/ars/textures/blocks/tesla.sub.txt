@@ -1,0 +1,44 @@
+16
+redbeam 0,0
+bluebeam 7,0
+tesla-off 0,1
+tesla-on 7,1
+filter-orange-vert 14,0
+transparent 15,0
+filter-orange-horz 14,1
+filter-colour-vert 15,1
+filter-off-colour-vert 14,2
+filter-off-colour-horz 15,2
+filter-colour-horz 13,2
+multiplexer-glow-side 12,2
+multiplexer-glow-top 12,2
+multiplexer-glow-bottom 12,2
+*6 filter0 1,0
+*6 filter1 1,1
+*3 multiplexer0 8,0
+*3 multiplexer1 8,1
+*3 multiplexerH 11,1
+*3 range0 0,2
+*3 range1 0,3
+*3 rangeH 3,3
+*3 emp0 0,4
+*3 emp1 0,5
+*3 empH 3,5
+*3 speed0 0,6
+*3 speed1 0,7
+*3 speedH 3,7
+*3 loot0 6,2
+*3 loot1 6,3
+*3 lootH 9,3
+*3 suppressor0 6,4
+*3 suppressor1 6,5
+*3 suppressorH 9,5
+*3 potion0 6,6
+*3 potion1 6,7
+*3 potionH 9,7
+*3 inv0 0,8
+*3 inv1 0,9
+*3 invH 3,9
+*3 field0 0,10
+*3 field1 0,11
+*3 fieldH 3,11
