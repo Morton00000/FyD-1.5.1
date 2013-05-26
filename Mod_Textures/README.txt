@@ -24,6 +24,7 @@ ExtraUtils -		- 0.2.2
 Factorization -		- 0.7.37
 Forestry -			- A-2.2.2.2
 Forestry-Extra_Bees -	- 1.6 pre2
+Forestry-Plugins -		- 3.0.9
 Forestry-Thaumic_Bees -	- 1.4.7
 Galacticraft -		- a0.1.35.254
 IC2 -			- 1.115.314-lf
@@ -61,7 +62,7 @@ Railcraft -			- 7.1.0.0
 Steves_Carts_2 -		- 2.0.0.a101
 Thaumcraft_3 -		- 3.0.5b
 Tinkers Construct -		- 1.3.3.15
-Twilight_Forest -		- 1.17.2
+Twilight_Forest -		- 1.18.0
 UE-Assembly_Line -		- v0.3.5.101
 UE-Atomic_Science -	- v0.5.1.13
 UE-Basic_Components -	- v1.3.2.73
