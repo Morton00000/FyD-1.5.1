@@ -1,76 +1,68 @@
 Versions:
 
-Applied_Energistics -	- rv10-dev17
-Ars_Magica -		- 5.50.007
-BC3-			- 3.4.2-190
-BC3-Additional_Objects -	- 1.0.2.112
-BC3-Additional_Pipes -	- 2.1.4u52
-BC3-Logistics_Pipes -	- 0.7.2.dev.397
-BC3-nx_Minetilities -	- 0.1.4
-Better_Storage -		- 0.5.0.3
-Biblio_Craft -		- v1.2.3
-Biomes_O_Plenty -		- 0.5.3
-CB-Chicken_Chunks	- 1.3.2.3
-CB-Ender_Storage -	- 1.4.2.4
-Chisel -			- 1.4.1
-CoFH-Core -		- 1.5.1.0
-CoFH-Omni_Tools -		- 3.1.0.0
-CoFH-Thermal_Expansion -	- 2.4.2.0
-Computer_Craft -		- 1.53pr2
-EE3 -			- pre1g
-Enchanting_Plus -		- 1.14.3
-Extrabiomes_XL -		- 3.12.2
-ExtraUtils -		- 0.2.2
-Factorization -		- 0.7.37
-Forestry -			- A-2.2.2.2
-Forestry-Extra_Bees -	- 1.6 pre2
-Forestry-Plugins -		- 3.0.9
-Forestry-Thaumic_Bees -	- 1.4.7
-Galacticraft -		- a0.1.35.254
-IC2 -			- 1.115.314-lf
-IC2-Advanced_Machines -	- 4.9
-IC2-Advanced_Solar_Panel -	- 3.3.5
-IC2-Charge_Pads -		- 2.6.0.74
-IC2-Compact_Solars -	- 4.1.4.35
-IC2-Gravi_Suite -		- 1.9
-IC2-GregTech -		- 3.05e
-IC2-MFFS -		- 2.3.0.0.3
-IC2-Nuclear_Control -	- 1.5.1
-iChun-Gravity_Gun -		- 1.5.0v2
-iChun-Hats -		- 1.1.0
-iChun-Portal_Gun -		- 1.5.1
-Immibis-ARS -		- 55.1.1
-Immibis-Core -		- 54.0.0
-Immibis-Microblocks -	- 54.0.3
-Immibis-TubeStuff -		- 55.0.1
-Iron_Chest -		- 5.2.2.350
-Light_Level_Overlay -	- v0.10
-MineChem -		- v3.0.121
-MPS -			- 0.7.0-500
-MPS-Addons -		- 0.2.3-137
-Mystcraft -			- 0.10.2.00
-Natura -			- 2.1beta.1
-NEI -			- 1.5.2.9
-NEI-Bees -		- 1.3.r28
-NEI-Plugins -		- 1.0.4.6
-Open_CC_Sensors -	- 0.1.5
-PC-MineFactory_Reloaded -	- 2.6.0B1-724
-PC-NetherOres -		- 2.1.3-60
-PC-Power_Converters -	- 2.3.0B1-38
-Project_Bench -		- v1.7.4
-Railcraft -			- 7.1.0.0
-Steves_Carts_2 -		- 2.0.0.a101
-Thaumcraft_3 -		- 3.0.5b
-Tinkers Construct -		- 1.3.3.15
-Twilight_Forest -		- 1.18.0
-UE-Assembly_Line -		- v0.3.5.101
-UE-Atomic_Science -	- v0.5.1.13
-UE-Basic_Components -	- v1.3.2.73
-UE-Complex_Machines -	- v0.3.1.25
-UE-Electric_Expansion -	- v2.1.0.28
-UE-Fluid_Mechanics -	- v0.4.3.71
-UE-ICBM -		- v1.1.2.45
-UE-Mekanism -		- v5.5.4.30
-UE-MFFS -		- v3.0.0.74
-Underground_Biomes -	- 0.3.4a
-XACT -			- v0.3.0
+Applied_Energistics ----------- rv11.e
+BC3 --------------------------- A-3.7.2
+BC3-Logistics_Pipes ----------- 0.7.3.dev.587
+Biblio_Craft ------------------ 1.3.3
+Biblio_Woods-BOP -------------- 1.0
+Biblio_Woods-Forestry --------- 1.0
+BiomesOPlenty ----------------- 0.5.7
+CB-Chicken_Chunks ------------- 1.3.2.14
+CB-Ender_Storage -------------- 1.4.2.16
+CB-Forge_Multipart ------------ 1.0.0.103
+CB-WR-CBE --------------------- 1.4
+CoFH-Core --------------------- 1.5.2.5
+CoFH-Omni_Tools --------------- 3.1.6.0
+CoFH-Thermal_Expansion -------- 2.4.6.0
+Computer_Craft ---------------- 1.53
+Creeper_Collateral ------------ 2.0.3
+Damage_Indicators ------------- 2.7.0.1
+DartCraft --------------------- Beta 0.1.18
+Den_Pipes --------------------- 2.0.7
+EE3 --------------------------- pre1h-16
+Enchanting_Plus --------------- 1.15.4
+ExtraUtils -------------------- 0.2.4f
+Factorization ----------------- 0.8.01
+Flatsigns --------------------- 1.3.2.14
+Forestry ---------------------- A-2.2.8.4
+Forestry-Binnie_Mods ---------- 1.7.0b
+Forestry-Magic_Bees ----------- 2.1.0
+Forestry-Plug-ins -------------- 3.0.17
+Gate_Copy --------------------- 3.0.2
+IC2 --------------------------- 1.116.364-lf
+IC2-Advanced_Power_Management - 1.2.68
+IC2-Advanced_Solar_Panels ----- 3.3.7
+IC2-Charge_Pads --------------- 2.7.0.86
+IC2-Compact_Solars ------------ 4.2.0.52
+IC2-Gravi_Suite --------------- 1.9.3
+IC2-MFFS ---------------------- 2.3.0.1.28
+IC2-MFFS_Cal ------------------ v3.1.0.175
+IC2-Nuclear_Control ----------- 1.5.1c
+iChun-GravityGun -------------- 1.5.1
+iChun-Hats -------------------- 1.3.3
+iChun-PortalGun --------------- 1.5.2
+Iron_Chest -------------------- 5.2.8.446
+Misc_Peripherals -------------- 3.3f
+MPS --------------------------- 0.7.0-534
+MPS-Add-ons -------------------- 0.2.3-165_MPS-531+
+Mystcraft --------------------- 0.10.5.00
+Natura ------------------------ 2.1.3
+NEI --------------------------- 1.5.2.28
+NEI-Add-ons -------------------- 1.8.1.r27
+NEI-Plug-ins ------------------- 1.0.9.3
+Nucleum_Omnium ---------------- Beta-84
+Open_Peripheral --------------- 0.1.9
+PC-Core ----------------------- 1.1.6-107
+PC-MineFactory_Reloaded ------- 2.6.4-975
+PC-Nether_Ores ---------------- 2.1.5-75
+PC-Power_Converters ----------- 2.3.1-58
+Railcraft --------------------- 7.3.0.0
+Reliquary --------------------- 1.0.6d
+SoulShards -------------------- 1.0.36
+StevesCarts_2 ----------------- 2.0.0.a122
+TConstruct -------------------- 1.4.1.7
+Thaumcraft_3 ------------------ 3.0.5h
+Thaumic_Tinkerer -------------- [1.0.7]
+Twilight_Forest --------------- 1.18.2
+Vending ----------------------- 1.0.9
+Voxel_Map --------------------- 1.5.2.u88
