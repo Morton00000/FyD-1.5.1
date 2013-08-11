@@ -15,10 +15,10 @@ CoFH-Core --------------------- 1.5.2.5
 CoFH-Omni_Tools --------------- 3.1.6.0
 CoFH-Thermal_Expansion -------- 2.4.6.0
 Computer_Craft ---------------- 1.53
-Creeper_Collateral ------------ 2.0.3
 Damage_Indicators ------------- 2.7.0.1
 DartCraft --------------------- Beta 0.1.18
 Den_Pipes --------------------- 2.0.7
+Dimensional_Doors ------------- R1.4.1RC1-194
 EE3 --------------------------- pre1h-16
 Enchanting_Plus --------------- 1.15.4
 ExtraUtils -------------------- 0.2.4f
@@ -30,11 +30,13 @@ Forestry-Magic_Bees ----------- 2.1.0
 Forestry-Plug-ins -------------- 3.0.17
 Gate_Copy --------------------- 3.0.2
 IC2 --------------------------- 1.116.364-lf
+IC2-Advanced_Machines --------- 4.9
 IC2-Advanced_Power_Management - 1.2.68
 IC2-Advanced_Solar_Panels ----- 3.3.7
 IC2-Charge_Pads --------------- 2.7.0.86
 IC2-Compact_Solars ------------ 4.2.0.52
 IC2-Gravi_Suite --------------- 1.9.3
+IC2-GregTech ------------------ 3.11
 IC2-MFFS ---------------------- 2.3.0.1.28
 IC2-MFFS_Cal ------------------ v3.1.0.175
 IC2-Nuclear_Control ----------- 1.5.1c
@@ -42,6 +44,8 @@ iChun-GravityGun -------------- 1.5.1
 iChun-Hats -------------------- 1.3.3
 iChun-PortalGun --------------- 1.5.2
 Iron_Chest -------------------- 5.2.8.446
+Metallurgy -------------------- 3.0.0.0.11.2
+Mine_Fantasy ------------------ 1.8.1
 Misc_Peripherals -------------- 3.3f
 MPS --------------------------- 0.7.0-534
 MPS-Add-ons -------------------- 0.2.3-165_MPS-531+
