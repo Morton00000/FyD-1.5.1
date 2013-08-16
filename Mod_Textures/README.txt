@@ -62,6 +62,7 @@ PC-Nether_Ores ---------------- 2.1.5-75
 PC-Power_Converters ----------- 2.3.1-58
 Railcraft --------------------- 7.3.0.0
 Reliquary --------------------- 1.0.6d
+Rotary_Craft ------------------ Beta V0.43b
 SoulShards -------------------- 1.0.36
 StevesCarts_2 ----------------- 2.0.0.a122
 TConstruct -------------------- 1.4.1.7
